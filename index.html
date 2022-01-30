@@ -1,0 +1,230 @@
+<html>
+<head>
+    <title>Chérie Scrunchies</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="image/jpg" href="images/logo.png">
+</head>
+
+<body>
+<ul>
+  <li><a href="index.html">Chérie Scrunchies</a></li>
+  <li class="dropdown">
+    <a href="about.html" class="prflbtn">About</a>
+    <div class="dropdown-content">
+      <a href="about.html#firstdivision">Our Story</a>
+      <a href="about.html#seconddivision">Our Material</a>
+    </div>
+</li>
+
+  <li><a href="shop.html">Shop</a></li>
+  <li><a href="scrunchiescare.html">Scrunchies Care</a></li>
+  <li><a href="contactus.html">Contact Us</a></li>
+
+<div style="padding-left:25px"></div>
+
+</ul>
+
+<body style="margin:0">
+
+<!--firstdivision-->
+<div class="slideshow-container">
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="images/h1.jpg" style="height:500px; width: 100%;">
+  <div class="text"><b>WELCOME TO CHÈRIE SCRUNCHIES !</b></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="images/h2.jpg" style="height:500px; width: 100%;">
+  <div class="text"><b>SATIN SCRUNCHIES</b></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="images/h3.jpg" style="height:500px; width: 100%;">
+  <div class="text"><b>PROTECT YOUR HAIR <b></div>
+</div>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+<script>
+  var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script>
+
+<br>
+<br>
+<!-- Featured Quote-->
+
+<div class="section-break"> </div>
+<div class="column-quote">
+  <br>
+  </br>
+  <p class="quote"> "YOUR HAIR IS YOUR BEST ACCESSORY &#10084;"</p>
+</div>
+
+<!--about-->
+<div class="container">
+    <h1>ABOUT</h1>
+    <div style="text-align: justify; text-justify: inter-word;">
+    <p>Our beautiful silk scrunchies are hand-cut and hand-sewn in Kuala Lumpur, Malaysia. This is the greatest beauty secret to achieve healty hair, made of 100% satin silk. We decided to manufacture eco-friendly scrunchies to address the hole left by women's inability to combine fashion with comfort. Our collection is based on Disney Princesses names, to make our customers feel more feminine when they survey the silk scrunchies.</p>
+    <a href="about.html">
+<center><button> READ MORE </button></center>
+</a>
+</div>
+</div>
+<br>
+<br>
+
+<!--product-->
+<div style="text-align: center; font-family:Arial, serif; font-size: 26;">
+<h1><center> MOST POPULAR RIGHT NOW </center></h1></div>
+<br>
+<div class="cards">
+  <div class="image">
+    <img src="images/tiana.jpg">
+</div>
+  
+<div class="title">
+    <h2>TIANA</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="shop.html">
+<button> SHOP NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/pocahontas.jpg">
+</div>
+  
+<div class="title">
+    <h2>POCAHONTAS</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="shop.html">
+<button> SHOP NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/aurora.jpg">
+</div>
+  
+<div class="title">
+    <h2>AURORA</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="shop.html">
+<a href="shop.html">
+<button> SHOP NOW </button>
+</a>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/belle.jpg">
+</div>
+
+<div class="title">
+    <h2>GISELLA</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="shop.html">
+<button> SHOP NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/merida.jpg">
+</div>
+  
+<div class="title">
+    <h2>MERIDA</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="shop.html">
+<button> SHOP NOW </button>
+</a>
+</div>
+</div>
+
+
+<br>
+<br>
+<br>
+<!--video-->
+<div style="text-align: center; font-family:Arial, serif; font-size: 26;">
+  <h1><b>SCRUNCHIE HAIRSTYLE<b></h1>
+  <br>
+ <iframe width="760" height="415" src="https://www.youtube.com/embed/8nrr81TtcnE" ></iframe> 
+</div>
+<br>
+<br>
+<br>
+<!--newsletter-->
+<div class="container">
+    <form action="">
+      <h1>JOIN THE CHERIE SCRUNCHIES FAMILY!</h1>
+      <div style="text-align: justify; text-justify: inter-word;">
+      <p> Insider knowledge on new arrivals and early access. Stay up to date on our discounts, offers and other interesting news by subscribing to our email list and following us on social media.</p>
+      <div class="email-box">
+        <i class="fas fa-envelope"></i>
+        <input class="tbox" type="email" name="" value="" placeholder="Enter your email">
+        <button class="btn" type="button" name="button">Subscribe</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<center>
+<div class="col-12 text-center">
+    <p class="credit">© 2022 Chérie Scrunchies. All rights reserved. </a></p>
+</div>
+</center>
+
+</body>
+</html>

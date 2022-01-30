@@ -1,0 +1,88 @@
+<html>
+<head>
+    <title>Chérie Scrunchies</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="image/jpg" href="images/logo.png">
+</head>
+
+<body>
+<ul>
+  <li><a href="index.html">Chérie Scrunchies</a></li>
+  <li class="dropdown">
+    <a href="about.html" class="prflbtn">About</a>
+    <div class="dropdown-content">
+      <a href="about.html#firstdivision">Our Story</a>
+      <a href="about.html#seconddivision">Our Material</a>
+    </div>
+</li>
+
+  <li><a href="shop.html">Shop</a></li>
+  <li><a href="scrunchiescare.html">Scrunchies Care</a></li>
+  <li><a href="contactus.html">Contact Us</a></li>
+
+<div style="padding-right:25px"></div>
+
+</ul>
+
+<body style="margin:0">
+
+<br>
+<br>
+<div class="section-break"> </div>
+<div class="column-quote">
+      <h1>HOW TO HAND WASH YOUR SCRUNCHIES</h1>
+      <li>Always separate your lights and darks from each other to wash separately.</li>
+      <br>
+      <li>Place your scrunchies in a large bowl or in the sink.</li>
+      <br>
+      <li>Add water to a large bowl with warm water or plug your sink and fill it up.</li>
+      <br>
+      <li>Add in a few drops of laundry detergent or regular shampoo.</li>
+      <br>
+      <li>Wash them with your hands thoroughly.</li>
+      <br>
+      <li>Rinse the detergent off.</li>
+      <br>
+      <li>Lay them out to dry on top of a towel or hang to dry.</li>
+    </div>
+</div>
+      <br>
+<div class="section-break"> </div>
+<div class="column-quote">
+     <h1>HOW TO MACHINE WASH YOUR SCRUNCHIES</h1>
+      <li>Be sure to not throw in the scrunchies alone into the machine.</li>
+      <br>
+      <li>Place your scrunchie in a laundry bag, net bag or even in an empty pillow case!</li>
+      <br>
+      <li>Wash on the delicate cycle or choose the hand wash option on your machine.</li>
+      <br>
+      <li>Choose warm or cold water with the lowest spin cycle possible.</li>
+      <br>
+      <li>We always recommend to let them hang dry.</li>
+    </div>
+</div>
+<br>
+<div style="font-family:Arial, serif; color: #2f3542; font-size:26;"></div>
+<center><h1> SCRUNCHIE CARE </h1></center>
+<br>
+<br>
+<table style="width:100%">
+                <tr>
+                  <th> <p> <video width="600" height="400"controls>
+                    <source src="video/34.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                  </video> </p></th>
+
+                  <th> <p> <video width="600" height="400"controls>
+                    <source src="video/12.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                  </video> </p></th>
+</table></tr></th>
+
+
+<div class="col-12 text-center">
+    <p class="credit"><center>© 2022 Chérie Scrunchies. All rights reserved. </center></a></p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,102 @@
+<html>
+<head>
+    <title>Chérie Scrunchies</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="image/jpg" href="images/logo.png">
+</head>
+
+<body>
+<ul>
+  <li><a href="index.html">Chérie Scrunchies</a></li>
+  <li class="dropdown">
+    <a href="about.html" class="prflbtn">About</a>
+    <div class="dropdown-content">
+      <a href="about.html#firstdivision">Our Story</a>
+      <a href="about.html#seconddivision">Our Material</a>
+    </div>
+</li>
+
+  <li><a href="shop.html">Shop</a></li>
+  <li><a href="scrunchiescare.html">Scrunchies Care</a></li>
+  <li><a href="contactus.html">Contact Us</a></li>
+
+<div style="padding-right:25px"></div>
+
+</ul>
+
+<br>
+</br>
+
+<body style="margin:0">
+
+<div class="intended">
+<center>
+<div style= "background-color: white;">
+<h2 style="color:pink;">SHIPPING</h2>
+<p style="color: black;">Standard delivery 1 to 3 business days MYR8.00. Orders worth more than MYR50 qualify for free postage. </p>
+</div>
+
+<div style= "background-color: white;">
+<h2 style="color:pink;">EAST MALAYSIA</h2>
+<p style="color: black;">Standard shipping 6 to 8 working days MYR15.00. Free shipping for orders above MYR90.</p>
+</div>
+
+<div style= "background-color: white;">
+<h2 style="color:pink;">HOW TO TRACK MY PACKAGE?</h2>
+<p style="color: black;"> We will send you tracking information and a link via email. </p>
+</div>
+
+<div style= "background-color: white;">
+<h2 style="color:pink;">ANY INQUIRIES?</h2>
+<p style="color:black;"> Please contact us by email at <b>cheriescrunchies@gmail.com</b> </p>
+</div>
+
+<div style= "background-color: white;">
+<h2 style="color:pink;">SHIPPING POLICY</h2>
+<p style="color:black;">In extremely rare cases, things may take longer to arrive. Only products that have not been delivered after 9 working days are classified as lost by our carrier. We can only send out a replacement parcel/refund once this period has passed. The customer's item will be delivered to the address provided at the time of purchase. We accept no responsibility for any errors or typos in the address.</p>
+</div>
+
+<div style= "background-color: white; height: 200px;">
+<h2 style="color:pink;"> RETURNS</h2>
+ <li>Customers will receive a refund once we have accepted the return.</li>
+ <br>
+ <li>Return shipping costs are not refundable.</li>
+ <br>
+ <li>Please keep in mind that we do not reimburse customs, taxes, or shipping charges.</li>
+ <br> 
+ <li>It may take 5-10 days for refunds to appear in the customer's bank account.e</li> 
+ <br>
+ <li> We cannot assure that your returned goods will be received.</li>
+</div>
+
+<br>
+<div style= "background-color: white; height: 200px;">
+<h2 style="color:pink;"> DELAY OR MISSING REFUNDS</h2>
+  <li>If you haven't received your return yet, check your bank account first.</li>
+  <br>
+  <li>Then, contact your credit card company, as it may take some time for your refund to be posted.</li>
+  <br>
+  <li>Customers will be refunded once the return has been accepted.</li>
+  <br>
+  <li>Contact your bank next. There is frequently some processing time involved before a refund is posted.</li>
+  <br>
+  <li>If you've followed all of the steps and haven't received your refund yet, please contact us at </li> 
+</div>
+<br>
+</br>
+
+<h2 style="color:black; font-size: 18;">DO CONTACT US</h2>
+ <p>
+   <!---Using image as hyperlink--->
+   <a href="scrunchiescherie@gmail.com"><img src="images/email.png" width="50px"></a>
+   <a href="http://instagram.com/cheriee_scrunchies"><img src="images/instagram.png" width="70px"></a>
+   <a href="https://www.facebook.com/profile.php?id=100077567892443"><img src="images/facebook.png" width="50px"></a>
+</p>
+</center>
+
+<div class="col-12 text-center">
+    <p class="credit"><center>© 2022 Chérie Scrunchies. All rights reserved. </center></a></p>
+</div>
+</div>
+</body>
+</html>

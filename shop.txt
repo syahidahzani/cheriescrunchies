@@ -1,0 +1,380 @@
+<html>
+<head>
+    <title>Chérie Scrunchies</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="image/jpg" href="images/logo.png">
+</head>
+
+<body>
+<ul>
+  <li><a href="index.html">Chérie Scrunchies</a></li>
+  <li class="dropdown">
+    <a href="about.html" class="prflbtn">About</a>
+    <div class="dropdown-content">
+      <a href="about.html#firstdivision">Our Story</a>
+      <a href="about.html#seconddivision">Our Material</a>
+    </div>
+</li>
+
+  <li><a href="shop.html">Shop</a></li>
+  <li><a href="scrunchiescare.html">Scrunchies Care</a></li>
+  <li><a href="contactus.html">Contact Us</a></li>
+
+<div style="padding-right:25px"></div>
+
+</ul>
+
+<body style="margin:0">
+
+<br>
+<br>
+<!--product-->
+<div style="font-family:Arial, serif; color: #2f3542; font-size:26;">
+<h1><center> SATIN SCRUNCHIES </center></h1></div>
+<br>
+<div class="cards">
+  <div class="image">
+    <img src="images/anastasia.jpg">
+</div>
+  
+<div class="title">
+    <h2>ANASTASIA</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #firstdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/ariel.jpg">
+</div>
+  
+<div class="title">
+    <h2>ARIEL</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #seconddivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/aurora.jpg">
+</div>
+  
+<div class="title">
+    <h2>AURORA</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #thirddivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/belle.jpg">
+</div>
+  
+<div class="title">
+    <h2>BELLE</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #fourthdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/cinderella.jpg">
+</div>
+  
+<div class="title">
+    <h2>CINDERELLA</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #fifthdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/elsa.jpg">
+</div>
+  
+<div class="title">
+    <h2>ELSA</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #sixthdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/giselle.jpg">
+</div>
+  
+<div class="title">
+    <h2>GISELLE</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #seventhdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/jasmine.jpg">
+</div>
+  
+<div class="title">
+    <h2>JASMINE</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #eighthdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/jane.jpg">
+</div>
+  
+<div class="title">
+    <h2>JANE</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #ninethdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/merida.jpg">
+</div>
+  
+<div class="title">
+    <h2>MERIDA</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #tenthdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/moana.jpg">
+</div>
+  
+<div class="title">
+    <h2>MOANA</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #eleventhdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/mulan.jpg">
+</div>
+  
+<div class="title">
+    <h2>MULAN</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #twelfthdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/nala.jpg">
+</div>
+  
+<div class="title">
+    <h2>NALA</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #thirteenthdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/POCAHONTAS.jpg">
+</div>
+  
+<div class="title">
+    <h2>POCAHONTAS</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #fourteenthdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/rapunzel.jpg">
+</div>
+  
+<div class="title">
+    <h2>RAPUNZEL</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #fifteenthdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/raya.jpg">
+</div>
+  
+<div class="title">
+    <h2>RAYA</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #sixteenthdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/snowwhite.jpg">
+</div>
+  
+<div class="title">
+    <h2>SNOW WHITE</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #seventeenthdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/sofia.jpg">
+</div>
+  
+<div class="title">
+    <h2>SOFIA</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #eighteenthdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/tiana.jpg">
+</div>
+  
+<div class="title">
+    <h2>TIANA</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #nineteenthdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+<div class="cards">
+  <div class="image">
+    <img src="images/vanellope.jpg">
+</div>
+  
+<div class="title">
+    <h2>VANELLOPE</h2>
+</div>
+
+<div class="des">
+    <p> RM20.00 </p>
+<a href="satinscrunchies.html #twentiethdivision">
+<button> BUY NOW </button>
+</a>
+</div>
+</div>
+
+
+<div class="col-12 text-center">
+    <p class="credit"><center>© 2022 Chérie Scrunchies. All rights reserved. </center></a></p>
+</div>
+</body>
+</html>
